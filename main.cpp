@@ -1,5 +1,5 @@
 // Name: Ryan Khieu
-// Program Name: Functions Lab
+// Program Name: Functions Lab 1
 // Date : 11/21/24
 #include <iostream>
 #include <string>
